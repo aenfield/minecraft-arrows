@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aearrows",
+  "name": "AEArrows",
+  "description": "Arrows, as an experiment to learn something about Forge mods.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["aenfield"],
+  "credits": "The Forge folks, for making Forge.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
