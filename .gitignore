@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Forge working and generated files and config
+.gradle
+build
+
+# don't check in the launch files Eclipse uses since I (think) I need to change absolute paths depending on device
+project_Client.launch
+project_Server.launch
